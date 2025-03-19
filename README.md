@@ -1,5 +1,3 @@
-# spotify_recommender_system
-
 # Spotify Recommender System
 
 ## Overview
